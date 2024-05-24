@@ -1,0 +1,12 @@
+{
+    "name": "devbastic/boox-lay",
+    "description": "-",
+    "type": "project",
+    "authors": [
+        {
+            "name": "devbastic",
+            "email": "devbastic@gmail.com"
+        }
+    ],
+    "require": {}
+}
